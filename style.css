@@ -1,0 +1,35 @@
+body
+{
+  color: rgb(0, 0, 0);
+  background: #6a226b;
+}
+span
+{
+  font-size: 30px;
+}
+#pic , #captured
+{
+  border: 2px ridge rgb(0, 255, 208);
+  width: 350px;
+  height: 250px; 
+}
+#em ,#ej  
+{
+  color: black;
+}
+.emotions
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading{
+  width:50%;
+}
+#capture,#predict{
+  background-color:aquamarine;
+  font-family: waltograph;
+  font-size: 55px;
+}
